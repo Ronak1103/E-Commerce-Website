@@ -1,0 +1,96 @@
+{
+  "seller": [
+    {
+      "name": "Ronak Parmar",
+      "email": "abc123@gmail.com",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "name": "Hiren Makwana",
+      "email": "abc123@gmail.com",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 3
+    },
+    {
+      "name": "djfcdbcjdl",
+      "password": "ckdrn",
+      "email": "kner3clnkrc",
+      "id": 4
+    },
+    {
+      "name": "kar",
+      "password": "hrehdhkrt",
+      "email": "flj5tj;gy",
+      "id": 5
+    },
+    {
+      "name": "Ronak",
+      "password": "12345",
+      "email": "Ronak123@gmail.com",
+      "id": 6
+    }
+  ],
+  "products": [
+    {
+      "name": "iPhone 14",
+      "price": "₹80,000",
+      "category": "Mobile",
+      "color": "Red",
+      "description": "This is an Apple Product.",
+      "image": "https://cdn.shopify.com/s/files/1/0568/5942/7015/products/MPVA3HN_A_1.jpg?v=1662718728",
+      "id": 1
+    },
+    {
+      "name": "Adidas",
+      "price": "₹5,000",
+      "category": "Shoes",
+      "color": "Blue",
+      "description": "This is an Adidas Product.",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ-cZi_h5TVokQZV4UC0vrsl2yGaNIz7BK-1mFAKDw3W6b4A2XUOTSvTLShApLghtStl7VyXMZCW8cjT_uFEDMIRzY0W4Mwd6GM74RYOCBGlBHh1ZFLyvCAHg&usqp=CAE",
+      "id": 2
+    },
+    {
+      "name": "Fire-Boltt",
+      "price": "₹1,500",
+      "category": "Smart Watch",
+      "color": "Pink",
+      "description": "This is a Fire-Boltt Product.",
+      "image": "https://m.media-amazon.com/images/I/61ObZFM3dGL._AC_UY327_FMwebp_QL65_.jpg",
+      "id": 3
+    },
+    {
+      "name": "Panasonic",
+      "price": "₹33,000",
+      "category": "Smart Tv",
+      "color": "Black",
+      "description": "This is a Panasonic Product.",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR_1giiCnETdkKxfikhndL-R9hxkDHmlioRzu9Kd4ayJxs6P1QNLNbXYNdx2wrHpS_B_9TDxLeyY2--3NUJSkzhVFyYJhPF86w9ZHuPQMGW9ccIjLWU4kqCw7ZDaAinPIqqzik&usqp=CAc",
+      "id": 4
+    },
+    {
+      "name": "OnePlus",
+      "price": "₹18,999",
+      "category": "Mobile",
+      "color": "Blue",
+      "description": "This is an OnePlus Product.",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTyIMG5LI63uBzUX13ibekVRcuh15R4GicJPPCdwZdyKAoqxjGqMxVV49JbEHaRZKVOKB1Ea4h8A1qnXNT3GCZG5wetc4F4u0y-xXERm667avYfWR5vBSYrP3qNiz96K-Yb1p8&usqp=CAc",
+      "id": 5
+    },
+    {
+      "name": "ASUS",
+      "price": "₹80,000",
+      "category": "Laptop",
+      "color": "Black",
+      "description": "This is an ASUS Product.",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT4zKE6bM6JF1rBEokli-Sx9DgJQESbr7H4xN3_MNr9KRF4gq8YZxgzs9gceCyoSo0yFlrXb-AuudadhyMv3yLdJ6e76fMJHOs18XYjNuH-&usqp=CAE",
+      "id": 6
+    }
+  ]
+}
