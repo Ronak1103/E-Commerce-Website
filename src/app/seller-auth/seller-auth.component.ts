@@ -1,4 +1,4 @@
-import { Component, OnInit, Type } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { signUp } from '../data-type';
 import { SellerService } from '../services/seller.service';
 
@@ -10,7 +10,6 @@ import { SellerService } from '../services/seller.service';
 export class SellerAuthComponent implements OnInit {
   showLogin=false;
   authError:String='';
-  static SellerHomeComponent: Type<any> | undefined;
   constructor(private seller: SellerService) {}
 
   ngOnInit(): void {
