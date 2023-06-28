@@ -17,6 +17,8 @@ import { SearchComponent } from './search/search.component';
 import { ProductDetailsComponent } from './product-details/product-details.component';
 import { UserAuthComponent } from './user-auth/user-auth.component';
 import { ProductService } from './services/product.service';
+import { CartPageComponent } from './cart-page/cart-page.component';
+import { CheckoutComponent } from './checkout/checkout.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -31,6 +33,8 @@ import { ProductService } from './services/product.service';
     SearchComponent,
     ProductDetailsComponent,
     UserAuthComponent,
+    CartPageComponent,
+    CheckoutComponent,
   ],
   imports: [
     BrowserModule,

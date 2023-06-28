@@ -22,321 +22,378 @@
   "products": [
     {
       "name": "iPhone 14",
-      "price": "₹80,000",
+      "price": 80000,
       "category": "Mobile",
       "color": "Red",
       "description": "This is an Apple Product.",
-      "specification": "Storage : 128 GB ROM , 6 GB RAM\nDisplay : Super Retina XDR display 6.1‑inch (diagonal) all‑screen OLED display\n\tCamera :12MP Main | 12MP Ultra Wide",
+      "specification": "Brand: Apple\nColor: Red\nStorage: 128 GB ROM, 6 GB RAM\nDisplay: Super Retina XDR display 6.1‑inch (diagonal) all‑screen OLED display\nCamera: 12MP Main | 12MP Ultra Wide\nOperating System: iOS 16\nProcessor: A15 Bionic Chip, 6 Core Processor\nBattery: Built-in rechargeable lithium-ion battery\nConnectivity: 5G, Wi-Fi 6, Bluetooth 5.2\nFace ID: Enabled\nWater and Dust Resistance: Rated IP68\nDimensions: 146.7mm x 71.5mm x 7.6mm\nWeight: 171 grams\nAdditional Details: The iPhone 14 comes in a stunning Red color, adding a vibrant and bold look to your device. It offers ample storage with 128 GB ROM and 6 GB RAM, allowing you to store your apps, photos, videos, and more. The Super Retina XDR display provides a 6.1‑inch all‑screen OLED display, offering vibrant colors and sharp visuals. The iPhone 14 features a powerful camera setup with a 12MP Main camera and a 12MP Ultra Wide camera, enabling you to capture stunning photos and videos. It runs on the latest iOS 16 operating system, providing a seamless and intuitive user experience. Powered by the A15 Bionic Chip with a 6 Core Processor, the iPhone 14 delivers fast and efficient performance. The built-in rechargeable lithium-ion battery ensures long-lasting usage, and the device supports 5G connectivity for fast internet speeds. It also features Face ID for secure authentication and is rated IP68 for water and dust resistance. With its sleek dimensions and lightweight design, the iPhone 14 is easy to carry and use on the go.",
       "image": "https://cdn.shopify.com/s/files/1/0568/5942/7015/products/MPVA3HN_A_1.jpg?v=1662718728",
       "id": 1
     },
     {
       "name": "Adidas",
-      "price": "₹5,000",
+      "price": 5000,
       "category": "Shoes",
       "color": "Blue",
       "description": "This is an Adidas Product.",
-      "specification": "Brand: Adidas , Color: Blue",
+      "specification": "Brand: Adidas\nColor: Blue\nMaterial: Synthetic\nClosure: Lace-Up\nSole: Rubber\nOccasion: Casual\nIdeal For: Men\nSpecial Features: Breathable mesh upper, cushioned insole, and durable outsole",
       "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ-cZi_h5TVokQZV4UC0vrsl2yGaNIz7BK-1mFAKDw3W6b4A2XUOTSvTLShApLghtStl7VyXMZCW8cjT_uFEDMIRzY0W4Mwd6GM74RYOCBGlBHh1ZFLyvCAHg&usqp=CAE",
       "id": 2
     },
     {
       "name": "Fire-Boltt",
-      "price": "₹1,500",
+      "price": 1500,
       "category": "Smart Watch",
       "color": "Pink",
       "description": "This is a Fire-Boltt Product.",
+      "specification": "Brand: Fire-Boltt\nColor: Pink\nDisplay: 1.3-inch TFT color screen\nCompatibility: Android and iOS\nBattery Life: Up to 7 days\nSensors: Heart rate monitor, blood oxygen level monitor, sleep tracker\nWater Resistance: IP67\nSpecial Features: Multiple sports modes, sedentary reminder, remote camera control",
       "image": "https://m.media-amazon.com/images/I/61ObZFM3dGL._AC_UY327_FMwebp_QL65_.jpg",
       "id": 3
     },
     {
       "name": "Panasonic",
-      "price": "₹33,000",
-      "category": "Smart Tv",
+      "price": "33000",
+      "category": "Smart TV",
       "color": "Black",
       "description": "This is a Panasonic Product.",
-      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR_1giiCnETdkKxfikhndL-R9hxkDHmlioRzu9Kd4ayJxs6P1QNLNbXYNdx2wrHpS_B_9TDxLeyY2--3NUJSkzhVFyYJhPF86w9ZHuPQMGW9ccIjLWU4kqCw7ZDaAinPIqqzik&usqp=CAc",
+      "specification": "Brand: Panasonic\nColor: Black\nScreen Size: 55 inches\nDisplay Type: LED\nResolution: 4K Ultra HD\nSmart Features: Built-in Wi-Fi, Smart OS\nConnectivity: HDMI, USB, Bluetooth\nSound Output: 20 Watts\nAdditional Features: Dolby Vision, HDR10+, Voice Assistant compatibility",
+      "image": "https://rukminim1.flixcart.com/image/312/312/l0o6nbk0/television/t/x/c/th-55lx700dx-panasonic-original-imagcejh5enwhxvf.jpeg?q=70",
       "id": 4
     },
     {
       "name": "OnePlus",
-      "price": "₹18,999",
+      "price": "18999",
       "category": "Mobile",
       "color": "Blue",
       "description": "This is an OnePlus Product.",
-      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTyIMG5LI63uBzUX13ibekVRcuh15R4GicJPPCdwZdyKAoqxjGqMxVV49JbEHaRZKVOKB1Ea4h8A1qnXNT3GCZG5wetc4F4u0y-xXERm667avYfWR5vBSYrP3qNiz96K-Yb1p8&usqp=CAc",
+      "specification": "Brand: OnePlus\nColor: Blue\nStorage: 128 GB ROM\nRAM: 6 GB\nDisplay: 6.5-inch Fluid AMOLED display with 2400 x 1080 pixels resolution\nOperating System: OxygenOS based on Android\nProcessor: Qualcomm Snapdragon 765G with Adreno 620 GPU\nBattery: 4500mAh non-removable battery with Warp Charge 30T Fast Charging\nCamera: Triple rear camera setup - 64MP main camera, 13MP ultra-wide camera, and 2MP depth sensor\nFront Camera: 16MP\nConnectivity: 5G, Wi-Fi 6, Bluetooth 5.1, NFC\nSpecial Features: In-display fingerprint sensor, Face Unlock, Dual Stereo Speakers, USB Type-C port\nDimensions: 160.7 x 74.1 x 8.4 mm\nWeight: 180 grams",
+      "image": "https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/k/w/k/-original-imagg2abzhxjckxu.jpeg?q=70",
       "id": 5
     },
     {
       "name": "ASUS",
-      "price": "₹80,000",
+      "price": 80000,
       "category": "Laptop",
       "color": "Black",
       "description": "This is an ASUS Product.",
+      "specification": "Brand: ASUS\nColor: Black\nProcessor: Intel Core i7-1165G7 11th Gen\nRAM: 16 GB DDR4\nStorage: 1 TB SSD\nDisplay: 15.6-inch Full HD NanoEdge Display with 1920 x 1080 pixels resolution\nGraphics: NVIDIA GeForce MX450 with 2GB GDDR5 VRAM\nOperating System: Windows 10 Home\nBattery Life: Up to 10 hours\nKeyboard: Backlit Chiclet Keyboard\nAudio: ASUS SonicMaster Technology, Harman/Kardon-certified speakers\nConnectivity: Wi-Fi 6, Bluetooth 5.0, HDMI, USB Type-C, USB 3.2, SD Card Reader\nDimensions: 35.7 x 23.0 x 1.99 cm\nWeight: 1.8 kg",
       "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT4zKE6bM6JF1rBEokli-Sx9DgJQESbr7H4xN3_MNr9KRF4gq8YZxgzs9gceCyoSo0yFlrXb-AuudadhyMv3yLdJ6e76fMJHOs18XYjNuH-&usqp=CAE",
       "id": 6
     },
     {
       "name": "Samsung Galaxy M33 5G",
-      "price": "₹15,499",
+      "price": "15499",
       "category": "Mobile",
-      "color": "Deep Ocean Blue",
+      "color": "Blue",
       "description": "Samsung Product",
-      "specification": "Storage : 128 GB ROM , 6 GB RAM\nDisplay : 6.5‑inch display\n\tBattery:6000mAH Battery",
+      "specification": "Brand: Samsung\nColor: Blue\nStorage: 128 GB ROM\nRAM: 6 GB\nDisplay: 6.5-inch Super AMOLED display with 2400 x 1080 pixels resolution\nOperating System: One UI 3.1 based on Android 11\nProcessor: MediaTek Dimensity 700 5G\nBattery: 6000mAh non-removable battery\nCamera: Quad rear camera setup - 48MP main camera, 8MP ultra-wide camera, 2MP depth sensor, and 2MP macro camera\nFront Camera: 13MP\nConnectivity: 5G, Wi-Fi, Bluetooth, NFC, USB Type-C\nSpecial Features: Fingerprint sensor, Face Unlock, Dolby Atmos support, Dual Stereo Speakers\nDimensions: 164.2 x 76.1 x 9.1 mm\nWeight: 203 grams",
       "image": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-m336bzbpins/gallery/in-galaxy-m33-5g-6gb-ram-sm-m336bzbpins-531839740?$650_519_PNG$",
       "id": 7
     },
     {
       "name": "Poco X3 GT",
-      "price": "₹23,999",
+      "price": 23999,
       "category": "Mobile",
       "color": "White",
       "description": "Poco Product",
-      "specification": "Battery capacity (mAh)\t6000\\nScreen size (inches)\t6.67\\nRAM\t6GB\\nInternal storage 64GB",
+      "specification": "Brand: Poco\nColor: White\nBattery capacity: 6000mAh\nScreen size: 6.67 inches\nRAM: 6GB\nInternal storage: 64GB\nProcessor: MediaTek Dimensity 1100\nDisplay: IPS LCD, 1080 x 2400 pixels resolution\nCamera: Triple rear camera setup - 64MP main camera, 8MP ultra-wide camera, and 2MP macro camera\nFront Camera: 16MP\nConnectivity: 5G, Wi-Fi 6, Bluetooth 5.2, USB Type-C\nSpecial Features: Side-mounted fingerprint sensor, Face Unlock, Dual Stereo Speakers\nDimensions: 163.3 x 75.9 x 8.9 mm\nWeight: 193 grams",
       "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSOuhSjRR6wcHtAfMkhz_MwZwvIs4ar-2vNy6yQNZa_TZXynXnk",
       "id": 8
     },
     {
       "name": "Samsung Galaxy S21 Ultra",
-      "price": "₹1,19,999",
+      "price": "119999",
       "category": "Mobile",
-      "color": "Phantom Black",
+      "color": "Green",
       "description": "Samsung Product",
-      "specification": "Storage: 512 GB ROM, 12 GB RAM\nDisplay: 6.8-inch Dynamic AMOLED 2X display\nBattery: 5000mAh Battery",
-      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSh-8wNf0ZSiGxhr3-Ld71iWTfAbdO5cGq67AgkXcxwo47Tv-az_xJj3yKYHuIIx8towenUOCs0ZPkczWL9fX98lYMd9mNS5aJm5-dVh8iuerVQnws3Tqsq65DFYPvz1Oshb5Q&usqp=CAc",
+      "specification": "Brand: Samsung\nColor: Green\nStorage: 512 GB ROM\nRAM: 12 GB\nDisplay: 6.8-inch Dynamic AMOLED 2X display with 3200 x 1440 pixels resolution\nBattery: 5000mAh non-removable battery\nProcessor: Exynos 2100 (International) / Qualcomm Snapdragon 888 (USA/China)\nCamera: Quad rear camera setup - 108MP main camera, 12MP ultra-wide camera, 10MP periscope telephoto lens, and 10MP telephoto lens\nFront Camera: 40MP\nConnectivity: 5G, Wi-Fi 6E, Bluetooth 5.2, USB Type-C\nSpecial Features: In-display fingerprint sensor, Face Unlock, S Pen support, IP68 water and dust resistance\nDimensions: 165.1 x 75.6 x 8.9 mm\nWeight: 227 grams",
+      "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/g/h/2/-original-imaggj68pbbezxcr.jpeg?q=70",
       "id": 9
     },
     {
       "name": "OnePlus 9 Pro",
-      "price": "₹69,999",
+      "price": 69999,
       "category": "Mobile",
       "color": "Morning Mist",
       "description": "Oneplus Product",
-      "specification": " 256 GB ROM, 8 GB RAM\nDisplay: 6.7-inch Fluid AMOLED display\nBattery: 4500mAh Battery",
+      "specification": "Brand: OnePlus\nColor: Morning Mist\nStorage: 256 GB ROM\nRAM: 8 GB\nDisplay: 6.7-inch Fluid AMOLED display with 1440 x 3216 pixels resolution\nBattery: 4500mAh non-removable battery\nProcessor: Qualcomm Snapdragon 888\nCamera: Quad rear camera setup - 48MP main camera, 50MP ultra-wide camera, 8MP telephoto lens, and 2MP monochrome sensor\nFront Camera: 16MP\nConnectivity: 5G, Wi-Fi 6, Bluetooth 5.2, USB Type-C\nSpecial Features: In-display fingerprint sensor, Face Unlock, Warp Charge 65T, IP68 water and dust resistance\nDimensions: 163.2 x 73.6 x 8.7 mm\nWeight: 197 grams",
       "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ6WKpyh70gZWwef7pDI4RbGIm-xVO63kukAmKZLNdVExcvFfvRc55-AgjCnjaPrCJA-kWVvWXOeeXi3P9VdR6VmqLszk9Gu-85h-s-5sH0G0RQf4b3DJqoFTQ47Dm4Mwk2uw&usqp=CAc",
       "id": 10
     },
     {
       "name": "Motorola Edge+",
-      "price": "₹74,999",
+      "price": "74999",
       "category": "Mobile",
-      "color": "Smoky Sangria",
+      "color": "Aurora Green",
       "description": "Motorola Product",
-      "specification": "256 GB ROM, 12 GB RAM\nDisplay: 6.7-inch OLED display\nBattery: 5000mAh Battery",
-      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR-dzct_BwOxUUHCvRMPysGo7qkOi16rqaQl_f0dVp0Jt_I7dTaZurVOUjMs2EknQ6eGQXjpCkE6xMrw1K3BEze2XlZ8Wy7oDKnK7U20B-sajxjyrSprjAyDKNGz1920HEdUQ&usqp=CAc",
+      "specification": "Brand: Motorola\nColor: Aurora Green\nStorage: 256 GB ROM\nRAM: 12 GB\nDisplay: 6.7-inch OLED display with 2340 x 1080 pixels resolution\nBattery: 5000mAh non-removable battery\nProcessor: Qualcomm Snapdragon 865\nCamera: Triple rear camera setup - 108MP main camera, 16MP ultra-wide camera, and 8MP telephoto lens\nFront Camera: 25MP\nConnectivity: 5G, Wi-Fi 6, Bluetooth 5.1, USB Type-C\nSpecial Features: In-display fingerprint sensor, Face Unlock, Stereo speakers, 3.5mm headphone jack\nDimensions: 161.1 x 71.4 x 9.6 mm\nWeight: 203 grams",
+      "image": "https://rukminim1.flixcart.com/image/416/416/l2xmqvk0/mobile/3/k/f/-original-image674nvdc4aws.jpeg?q=70",
       "id": 11
     },
     {
       "name": "Panasonic",
-      "price": "₹35,000",
-      "category": "Smart Tv",
+      "price": 35000,
+      "category": "Smart TV",
       "color": "Black",
-      "description": "Panasonic Product.",
-      "specification": "Display Size\n165 cm (65 inch)\nScreen Type\nLED\nHD Technology & Resolution\nUltra HD (4K), 3840 x 2160",
+      "description": "Panasonic Product",
+      "specification": "Display Size: 165 cm (65 inches)\nScreen Type: LED\nHD Technology & Resolution: Ultra HD (4K), 3840 x 2160\nRefresh Rate: 60Hz\nHDR Support: Yes\nSound Output: 20 Watts\nNumber of HDMI Ports: 3\nNumber of USB Ports: 2\nSmart Features: Built-in Wi-Fi, Smart OS\nDimensions (W x H x D): 1462 mm x 844 mm x 78 mm\nWeight: 22 kg",
       "image": "https://rukminim1.flixcart.com/image/312/312/xif0q/television/8/x/y/th-65lx850dx-panasonic-original-imagh2gnfwpgtu6h.jpeg?q=70",
       "id": 12
     },
     {
       "name": "LG",
-      "price": "₹20,000",
-      "category": "Smart Tv",
-      "color": "Black",
-      "description": "LG Product.",
-      "specification": "Display Size : 80 cm (32 inch)\nScreen Type : LED\nHD Resolution:1366 x 768",
-      "image": "https://rukminim1.flixcart.com/image/416/416/l0fm07k0/television/7/x/9/-original-imagc8fnpx39evgc.jpeg?q=70",
-      "id": 12
-    },
-    {
-      "name": "Samsung",
-      "price": "₹25000",
+      "price": 20000,
       "category": "Smart TV",
-      "color": "Silver",
-      "description": "Samsung Smart TV with advanced features.",
-      "specification": "Display Size: 108 cm (43 inches), Screen Type: QLED, HD Resolution: 3840 x 2160",
-      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSAXurwzHE-NwMLHyXFnT0Iz3BhwpoRr5KoeSRaFh2qJDPkfu8AYZX_WWv04DbWj0xm3r5zkUZGDVjTXm6Be_YdQSNtAuxs-3hZ2W0ZuX3xCXxZK2W-xsiywri5RrpoZEBGgnw&usqp=CAc",
+      "color": "Black",
+      "description": "LG Product",
+      "specification": "Display Size: 80 cm (32 inches)\nScreen Type: LED\nHD Resolution: 1366 x 768\nRefresh Rate: 50Hz\nHDR Support: No\nSound Output: 10 Watts\nNumber of HDMI Ports: 2\nNumber of USB Ports: 1\nSmart Features: Built-in Wi-Fi, Smart OS\nDimensions (W x H x D): 737 mm x 439 mm x 82 mm\nWeight: 4.1 kg",
+      "image": "https://rukminim1.flixcart.com/image/416/416/l0fm07k0/television/7/x/9/-original-imagc8fnpx39evgc.jpeg?q=70",
       "id": 13
     },
     {
+      "name": "Samsung",
+      "price": 25000,
+      "category": "Smart TV",
+      "color": "Silver",
+      "description": "Samsung Smart TV with advanced features",
+      "specification": "Display Size: 108 cm (43 inches)\nScreen Type: QLED\nHD Resolution: 3840 x 2160\nRefresh Rate: 120Hz\nHDR Support: Yes\nSound Output: 20 Watts\nNumber of HDMI Ports: 4\nNumber of USB Ports: 2\nSmart Features: Built-in Wi-Fi, Smart OS\nDimensions (W x H x D): To be provided\nWeight: To be provided",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSAXurwzHE-NwMLHyXFnT0Iz3BhwpoRr5KoeSRaFh2qJDPkfu8AYZX_WWv04DbWj0xm3r5zkUZGDVjTXm6Be_YdQSNtAuxs-3hZ2W0ZuX3xCXxZK2W-xsiywri5RrpoZEBGgnw&usqp=CAc",
+      "id": 14
+    },
+    {
       "name": "Sony",
-      "price": "₹20,000",
+      "price": 20000,
+      "category": "Smart TV",
+      "color": "Black",
+      "description": "Sony Smart TV with high-quality display.",
+      "specification": "Brand: Sony\nColor: Black\nDisplay Size: 140 cm (55 inches)\nScreen Type: OLED\nHD Resolution: 3840 x 2160\nRefresh Rate: 120Hz\nHDR Support: HDR10, Dolby Vision\nSound Output: 40 Watts\nSpeaker Type: Bass Reflex Speaker\nNumber of HDMI Ports: 4\nNumber of USB Ports: 2\nSmart Features: Built-in Wi-Fi, Smart OS, Voice Search\nSupported Apps: Netflix, YouTube, Amazon Prime Video, Disney+, and more\nDimensions (W x H x D): 1228 mm x 712 mm x 89 mm\nWeight: 17.2 kg\nWarranty: 1 Year",
+      "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/television/r/s/l/kd-43x64l-sony-original-imagp25zkf38fpb4.jpeg?q=70",
+      "id": 15
+    },
+    {
+      "name": "Philips",
+      "price": 18000,
+      "category": "Smart TV",
+      "color": "Black",
+      "description": "Philips Smart TV with Ambilight.",
+      "specification": "Brand: Philips\nColor: Black\nDisplay Size: 125 cm (50 inches)\nScreen Type: LED\nHD Resolution: 3840 x 2160\nRefresh Rate: 60Hz\nHDR Support: HDR10+\nSound Output: 20 Watts\nSpeaker Type: Full Range\nNumber of HDMI Ports: 3\nNumber of USB Ports: 2\nSmart Features: Built-in Wi-Fi, Smart OS, Miracast\nSupported Apps: Netflix, YouTube, Disney+, Hulu, and more\nAmbilight: Yes\nAmbilight Features: 3-sided Ambilight, Ambilight Gaming\nDimensions (W x H x D): 1128 mm x 654 mm x 78 mm\nWeight: 12.5 kg\nWarranty: 2 Years",
+      "image": "https://rukminim1.flixcart.com/image/312/312/kqidx8w0/television/j/s/o/50put8215-94-philips-original-imag4gb5vkhsj8fk.jpeg?q=70",
+      "id": 16
+    },
+    {
+      "name": "Nike",
+      "price": 4500,
+      "category": "Shoes",
+      "color": "Black",
+      "description": "This is a Nike Product.",
+      "specification": "Brand: Nike\nColor: Black\nGender: Unisex\nClosure: Lace-up\nOuter Material: Synthetic\nSole Material: Rubber\nToe Style: Round Toe\nSize Options: Available in various sizes\nWeight: Varies depending on size\nFit: Regular Fit\nCushioning Technology: Air Max, Zoom Air\nSuitable For: Running, Sports, Casual Wear\nWarranty: No warranty",
+      "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/a/b/t/-original-imagpgpekpzwjchk.jpeg?q=70",
+      "id": 17
+    },
+    {
+      "name": "Puma",
+      "price": 3800,
+      "category": "Shoes",
+      "color": "Red",
+      "description": "This is a Puma Product.",
+      "specification": "Brand: Puma\nColor: Red\nClosure: Lace-up\nOuter Material: Synthetic\nSole Material: Rubber\nToe Style: Round Toe\nSize Options: Available in various sizes\nWeight: Varies depending on size\nFit: Regular Fit\nCushioning Technology: EVA\nUpper Material: Mesh and synthetic\nInsole Material: Foam\nOutsole Material: Rubber\nIdeal For: Running, Training, and Casual Wear\nWarranty: No warranty",
+      "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/shoe/f/k/6/-original-imagzug3esnwxwhc.jpeg?q=70",
+      "id": 18
+    },
+    {
+      "name": "Nike",
+      "price": 6000,
+      "category": "Shoes",
+      "color": "Black",
+      "description": "This is a Nike product.",
+      "specification": "Brand: Nike\nColor: Black\nMaterial: Synthetic\nClosure: Lace-Up\nSole: Rubber\nOccasion: Casual\nIdeal For: Men\nSpecial Features: Lightweight design, cushioned insole, and flexible outsole",
+      "image":"https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/y/p/q/-original-imagpgpegvbyjg9h.jpeg?q=70",
+      "id": 19
+    },
+    {
+      "name": "Reebok",
+      "price": 4200,
+      "category": "Shoes",
+      "color": "White",
+      "description": "This is a Reebok Product.",
+      "specification": "Brand: Reebok\nColor: White\nClosure: Lace-up\nOuter Material: Synthetic\nSole Material: Rubber\nToe Style: Round Toe\nSize Options: Available in various sizes\nWeight: Varies depending on size\nFit: Regular Fit\nCushioning Technology: DMX Foam\nUpper Material: Synthetic Leather\nInsole Material: MemoryTech foam\nOutsole Material: Rubber\nIdeal For: Running, Training, and Casual Wear\nWarranty: No warranty",
+      "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/shoe/i/e/4/8-gz6127-9-reebok-white-original-imagzczpdgupwbpb.jpeg?q=70",
+      "id": 20
+    },
+    {
+      "name": "Rolex Submariner",
+      "price": 10000,
+      "category": "Watch",
+      "color": "Black",
+      "description": "Classic luxury watch from Rolex.",
+      "specification": "Brand: Rolex\nColor: Black\nMovement: Automatic\nCase Material: Stainless Steel\nCase Diameter: 40mm\nStrap Material: Stainless Steel\nStrap Color: Silver\nDial Color: Black\nWater Resistance: 300 meters\nFeatures: Date Display, Rotating Bezel\nCrystal: Sapphire\nPower Reserve: Approximately 48 hours\nWarranty: 2 Years",
+      "image": "https://www.swisswatchexpo.com/TheWatchClub/wp-content/uploads/2022/04/Rolex-Submariner-40mm-Non-Date-2-Liner-Steel-Mens-Watch-14060.jpg",
+      "id": 21
+    },
+    {
+      "name": "Omega Seamaster",
+      "price": 500,
+      "category": "Watch",
+      "color": "Transparent",
+      "description": "Elegant timepiece from Omega.",
+      "specification": "Brand: Omega\nColor: Transparent\nMovement: Automatic\nCase Material: Stainless Steel\nCase Diameter: 42mm\nStrap Material: Silicone\nStrap Color: Transparent\nDial Color: Transparent\nWater Resistance: 300 meters\nFeatures: Date Display, Helium Escape Valve\nCrystal: Sapphire\nPower Reserve: Approximately 48 hours\nWarranty: 2 Years\nAdditional Details: The watch comes with a transparent case back, showcasing the intricate movement of the watch.",
+      "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/screen-guard/screen-guard/f/x/v/omega-seamaster-diver-300-m-chronograph-men-s-watch-lightwings-original-imaggvvdatfhpmrz.jpeg?q=70",
+      "id": 22
+    },
+    {
+      "name": "TAG Heuer Carrera",
+      "price": 700,
+      "category": "Watch",
+      "color": "Blue",
+      "description": "Sophisticated watch from TAG Heuer.",
+      "specification": "Brand: TAG Heuer\nColor: Blue\nMovement: Automatic\nCase Material: Stainless Steel\nCase Diameter: 41mm\nStrap Material: Leather\nStrap Color: Blue\nDial Color: Blue\nWater Resistance: 100 meters\nFeatures: Chronograph, Date Display\nCrystal: Sapphire\nPower Reserve: Approximately 50 hours\nWarranty: 2 Years\nAdditional Details: The watch features a transparent case back, revealing the intricate mechanical movement of the timepiece.",
+      "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/watch/7/v/f/-original-imagksq9ftvxm4qe.jpeg?q=70",
+      "id": 23
+    },
+    {
+      "name": "Citizen Eco-Drive",
+      "price": 500,
+      "category": "Watch",
+      "color": "Gold",
+      "description": "Eco-friendly timepiece from Citizen.",
+      "specification": "Brand: Citizen\nColor: Gold\nMovement: Eco-Drive (Solar Powered)\nCase Material: Stainless Steel\nCase Diameter: 40mm\nStrap Material: Stainless Steel\nStrap Color: Gold\nDial Color: Gold\nWater Resistance: 100 meters\nFeatures: Date Display\nCrystal: Mineral\nPower Reserve: No battery required\nWarranty: 5 Years\nAdditional Details: The watch is powered by any light source and has a power reserve indicator on the dial, ensuring reliable timekeeping without the need for a battery.",
+      "image": "https://rukminim1.flixcart.com/image/832/832/kg6vfrk0-0/watch/c/c/7/at2243-87l-citizen-original-imafwh8yydx5n9zj.jpeg?q=70",
+      "id": 24
+    },
+    {
+      "name": "Seiko Prospex",
+      "price": 650,
+      "category": "Watch",
+      "color": "Green",
+      "description": "Durable and sporty watch from Seiko.",
+      "specification": "Brand: Seiko\nColor: Green\nMovement: Automatic\nCase Material: Stainless Steel\nCase Diameter: 44mm\nStrap Material: Silicone\nStrap Color: Green\nDial Color: Green\nWater Resistance: 200 meters\nFeatures: Date Display, Rotating Bezel\nCrystal: Hardlex\nPower Reserve: Approximately 41 hours\nWarranty: 3 Years\nAdditional Details: The watch features luminescent hands and markers for enhanced visibility in low-light conditions. It also has a screw-down crown and a screw-down case back for added water resistance.",
+      "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/watch/z/i/y/1-gw0325g2-guess-men-original-imagg358dsaemzpq.jpeg?q=70",
+      "id": 25
+    },
+    {
+      "name": "Dell XPS 13",
+      "price": 149900,
+      "category": "Laptop",
+      "color": "Silver",
+      "description": "Powerful and compact laptop from Dell.",
+      "specification": "Brand: Dell\nColor: Silver\nProcessor: Intel Core i7\nRAM: 16GB\nStorage: 512GB SSD\nDisplay: 13.3-inch FHD\nGraphics: Intel Iris Xe\nOperating System: Windows 10\nBattery: Up to 14 hours\nWeight: 1.27kg\nAdditional Details: The laptop features a slim bezel design, Thunderbolt 4 ports for fast data transfer, and an advanced cooling system for efficient performance. It also has a backlit keyboard and a fingerprint reader for enhanced security.",
+      "image": "https://rukminim1.flixcart.com/image/312/312/jk01bww0/computer/x/5/z/dell-na-thin-and-light-laptop-original-imaf7fy9v5sbfsxp.jpeg?q=70",
+      "id": 26
+    },
+    {
+      "name": "Apple MacBook Pro",
+      "price": 199900,
+      "category": "Laptop",
+      "color": "Space Gray",
+      "description": "Sleek and high-performance laptop from Apple.",
+      "specification": "Brand: Apple\nColor: Space Gray\nProcessor: Intel Core i9\nRAM: 32GB\nStorage: 1TB SSD\nDisplay: 16-inch Retina\nGraphics: AMD Radeon Pro\nOperating System: macOS\nBattery: Up to 11 hours\nWeight: 2.0kg\nAdditional Details: The laptop features the Touch Bar, Touch ID for secure authentication, a large Force Touch trackpad for precise control, and a powerful audio system with six speakers. It also includes the Apple T2 Security Chip for enhanced data protection.",
+      "image": "https://rukminim1.flixcart.com/image/312/312/xif0q/computer/k/s/m/-original-imagfdewfh9z3pee.jpeg?q=70",
+      "id": 27
+    },
+    {
+      "name": "HP Spectre x360",
+      "price": 129900,
+      "category": "Laptop",
+      "color": "Dark Ash Silver",
+      "description": "Versatile and stylish 2-in-1 laptop from HP.",
+      "specification": "Brand: HP\nColor: Dark Ash Silver\nProcessor: Intel Core i7\nRAM: 16GB\nStorage: 512GB SSD\nDisplay: 13.3-inch FHD Touchscreen\nGraphics: Intel Iris Xe\nOperating System: Windows 10\nBattery: Up to 15 hours\nWeight: 1.27kg\nAdditional Details: The HP Spectre x360 features a 360-degree hinge design that allows it to be used in different modes such as laptop, tablet, tent, and stand. It comes with a vibrant 13.3-inch Full HD touchscreen display, providing crisp and vivid visuals. The laptop is equipped with an Intel Core i7 processor for powerful performance, and it has 16GB of RAM and a 512GB SSD for smooth multitasking and ample storage. The Intel Iris Xe graphics deliver impressive visuals for multimedia and light gaming. It runs on the Windows 10 operating system and offers up to 15 hours of battery life, making it suitable for long hours of productivity or entertainment. The laptop is lightweight and portable, making it easy to carry on the go. It also includes features like a backlit keyboard and Bang & Olufsen speakers for an enhanced audio experience.",
+      "image": "https://rukminim1.flixcart.com/image/312/312/xif0q/computer/h/s/n/spectre-x360-13-notebook-hp-original-imagg4fa4ng9axqx.jpeg?q=70",
+      "id":28
+    },
+    {
+      "name": "Lenovo ThinkPad X1 Carbon",
+      "price": 59900,
+      "category": "Laptop",
+      "color": "Black",
+      "description": "Durable and business-oriented laptop from Lenovo.",
+      "specification": "Processor: Intel Core i7\nRAM: 16GB DDR4\nStorage: 512GB PCIe NVMe SSD\nDisplay: 14-inch Full HD (1920x1080) IPS anti-glare\nGraphics: Integrated Intel UHD Graphics\nOperating System: Windows 10 Pro\nKeyboard: Backlit, spill-resistant\nAudio: Dolby Atmos Speaker System\nConnectivity: Wi-Fi 6 (802.11ax), Bluetooth 5.2\nPorts: 2 x USB-C Thunderbolt 4, 2 x USB-A 3.2 Gen 1, HDMI 2.0, headphone/mic combo, microSD card reader\nBattery: Up to 15 hours, 57Wh\nDimensions: 323mm x 217mm x 14.9mm\nWeight: Starting at 1.09 kg",
+      "image": "https://rukminim1.flixcart.com/image/312/312/xif0q/computer/n/i/u/-original-imagpa5fbvqzk2xn.jpeg?q=70",
+      "id": 29
+    },
+    {
+      "name": "ASUS ROG Zephyrus G14",
+      "price": 129900,
+      "category": "Laptop",
+      "color": "Moonlight White",
+      "description": "Gaming laptop with powerful performance from ASUS.",
+      "specification": "Processor: AMD Ryzen 9 5900HS\nRAM: 16GB DDR4\nStorage: 1TB PCIe NVMe SSD\nDisplay: 14-inch Quad HD (2560x1440) IPS anti-glare, 120Hz refresh rate\nGraphics: NVIDIA GeForce RTX 3060, 6GB GDDR6 VRAM\nOperating System: Windows 10 Home\nKeyboard: Backlit, with N-key rollover and Overstroke\nAudio: 2 x 2.5W speakers with Smart AMP technology, Dolby Atmos\nConnectivity: Wi-Fi 6 (802.11ax), Bluetooth 5.2\nPorts: 1 x USB-C with Power Delivery, DisplayPort 1.4, and G-SYNC, 1 x USB-C, 2 x USB-A 3.2 Gen 1, HDMI 2.0b, 3.5mm audio combo jack\nBattery: Up to 10 hours, 76Wh\nDimensions: 324mm x 222mm x 19.9mm\nWeight: Starting at 1.7 kg",
+      "image": "https://rukminim1.flixcart.com/image/312/312/xif0q/computer/5/i/3/ga402rjz-l4135ws-thin-and-light-laptop-asus-original-imagmm76favtvwjx.jpeg?q=70",
+      "id": 30
+    }
+  ],
+  "users": [
+    {
+      "name": "Ronak",
+      "email": "Ronak123@gmail.com",
+      "password": "1234",
+      "id": 1
+    }
+  ],
+  "cart": [
+    {
+      "name": "Poco X3 GT",
+      "price": 23999,
+      "category": "Mobile",
+      "color": "White",
+      "description": "Poco Product",
+      "specification": "Battery capacity (mAh)\t6000\\nScreen size (inches)\t6.67\\nRAM\t6GB\\nInternal storage 64GB",
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSOuhSjRR6wcHtAfMkhz_MwZwvIs4ar-2vNy6yQNZa_TZXynXnk",
+      "quantity": 1,
+      "productId": 8,
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "name": "Adidas",
+      "price": 5000,
+      "category": "Shoes",
+      "color": "Blue",
+      "description": "This is an Adidas Product.",
+      "specification": "Brand: Adidas , Color: Blue",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ-cZi_h5TVokQZV4UC0vrsl2yGaNIz7BK-1mFAKDw3W6b4A2XUOTSvTLShApLghtStl7VyXMZCW8cjT_uFEDMIRzY0W4Mwd6GM74RYOCBGlBHh1ZFLyvCAHg&usqp=CAE",
+      "quantity": 1,
+      "productId": 2,
+      "userId": 2,
+      "id": 2
+    },
+    {
+      "name": "iPhone 14",
+      "price": 80000,
+      "category": "Mobile",
+      "color": "Red",
+      "description": "This is an Apple Product.",
+      "specification": "Storage : 128 GB ROM , 6 GB RAM\nDisplay : Super Retina XDR display 6.1‑inch (diagonal) all‑screen OLED display\n\tCamera :12MP Main | 12MP Ultra Wide",
+      "image": "https://cdn.shopify.com/s/files/1/0568/5942/7015/products/MPVA3HN_A_1.jpg?v=1662718728",
+      "quantity": 1,
+      "productId": 1,
+      "userId": 1,
+      "id": 3
+    },
+    {
+      "name": "Fire-Boltt",
+      "price": 1500,
+      "category": "Smart Watch",
+      "color": "Pink",
+      "description": "This is a Fire-Boltt Product.",
+      "image": "https://m.media-amazon.com/images/I/61ObZFM3dGL._AC_UY327_FMwebp_QL65_.jpg",
+      "quantity": 1,
+      "productId": 3,
+      "userId": 1,
+      "id": 4
+    },
+    {
+      "name": "Sony",
+      "price": 20000,
       "category": "Smart TV",
       "color": "Black",
       "description": "Sony Smart TV with high-quality display.",
       "specification": "Display Size: 140 cm (55 inches), Screen Type: OLED, HD Resolution: 3840 x 2160",
       "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/television/r/s/l/kd-43x64l-sony-original-imagp25zkf38fpb4.jpeg?q=70",
-      "id": 14
-    },
-    {
-      "name": "Philips",
-      "price": "₹18,000",
-      "category": "Smart TV",
-      "color": "Black",
-      "description": "Philips Smart TV with Ambilight.",
-      "specification": "Display Size: 125 cm (50 inches), Screen Type: LED, HD Resolution: 3840 x 2160",
-      "image": "https://rukminim1.flixcart.com/image/312/312/kqidx8w0/television/j/s/o/50put8215-94-philips-original-imag4gb5vkhsj8fk.jpeg?q=70",
-      "id": 15
-    },
-    {
-      "name": "Nike",
-      "price": "₹4,500",
-      "category": "Shoes",
-      "color": "Black",
-      "description": "This is a Nike Product.",
-      "specification": "Brand: Nike, Color: Black",
-      "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/a/b/t/-original-imagpgpekpzwjchk.jpeg?q=70",
-      "id": 16
-      },
-      {
-      "name": "Puma",
-      "price": "₹3,800",
-      "category": "Shoes",
-      "color": "Red",
-      "description": "This is a Puma Product.",
-      "specification": "Brand: Puma, Color: Red",
-      "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/shoe/f/k/6/-original-imagzug3esnwxwhc.jpeg?q=70",
-      "id": 17
-      },
-      {
-      "name": "Reebok",
-      "price": "₹4,200",
-      "category": "Shoes",
-      "color": "White",
-      "description": "This is a Reebok Product.",
-      "specification": "Brand: Reebok, Color: White",
-      "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/shoe/i/e/4/8-gz6127-9-reebok-white-original-imagzczpdgupwbpb.jpeg?q=70",
-      "id": 18
-      },
-      {
-        "name": "Rolex Submariner",
-        "price": "₹10,000",
-        "category": "Watch",
-        "color": "Black",
-        "description": "Classic luxury watch from Rolex.",
-        "specification": "Brand: Rolex, Color: Black",
-        "image": "https://www.swisswatchexpo.com/TheWatchClub/wp-content/uploads/2022/04/Rolex-Submariner-40mm-Non-Date-2-Liner-Steel-Mens-Watch-14060.jpg",
-        "id": 19
-        },
-        {
-        "name": "Omega Seamaster",
-        "price": "₹500",
-        "category": "Watch",
-        "color": "Transparent",
-        "description": "Elegant timepiece from Omega.",
-        "specification": "Brand: Omega, Color: Transparent",
-        "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/screen-guard/screen-guard/f/x/v/omega-seamaster-diver-300-m-chronograph-men-s-watch-lightwings-original-imaggvvdatfhpmrz.jpeg?q=70",
-        "id": 20
-        },
-        {
-        "name": "TAG Heuer Carrera",
-        "price": "₹700",
-        "category": "Watch",
-        "color": "Blue",
-        "description": "Sophisticated watch from TAG Heuer.",
-        "specification": "Brand: TAG Heuer, Color: Blue",
-        "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/watch/7/v/f/-original-imagksq9ftvxm4qe.jpeg?q=70",
-        "id": 21
-        },
-        {
-        "name": "Citizen Eco-Drive",
-        "price": "₹500",
-        "category": "Watch",
-        "color": "Gold",
-        "description": "Eco-friendly timepiece from Citizen.",
-        "specification": "Brand: Citizen, Color: Gold",
-        "image": "https://rukminim1.flixcart.com/image/832/832/kg6vfrk0-0/watch/c/c/7/at2243-87l-citizen-original-imafwh8yydx5n9zj.jpeg?q=70",
-        "id": 22
-        },
-        {
-        "name": "Seiko Prospex",
-        "price": "₹650",
-        "category": "Watch",
-        "color": "Green",
-        "description": "Durable and sporty watch from Seiko.",
-        "specification": "Brand: Seiko, Color: Green",
-        "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/watch/z/i/y/1-gw0325g2-guess-men-original-imagg358dsaemzpq.jpeg?q=70",
-        "id": 23
-        },
-        {
-          "name": "Dell XPS 13",
-          "price": "₹1,49,900",
-          "category": "Laptop",
-          "color": "Silver",
-          "description": "Powerful and compact laptop from Dell.",
-          "specification": "Processor: Intel Core i7, RAM: 16GB, Storage: 512GB SSD, Display: 13.3-inch FHD",
-          "image": "https://rukminim1.flixcart.com/image/312/312/jk01bww0/computer/x/5/z/dell-na-thin-and-light-laptop-original-imaf7fy9v5sbfsxp.jpeg?q=70",
-          "id": 24
-          },
-          {
-          "name": "Apple MacBook Pro",
-          "price": "₹1,99,900",
-          "category": "Laptop",
-          "color": "Space Gray",
-          "description": "Sleek and high-performance laptop from Apple.",
-          "specification": "Processor: Intel Core i9, RAM: 32GB, Storage: 1TB SSD, Display: 16-inch Retina",
-          "image": "https://rukminim1.flixcart.com/image/312/312/xif0q/computer/k/s/m/-original-imagfdewfh9z3pee.jpeg?q=70",
-          "id": 25
-          },
-          {
-          "name": "HP Spectre x360",
-          "price": "₹1,29,900",
-          "category": "Laptop",
-          "color": "Dark Ash Silver",
-          "description": "Versatile and stylish 2-in-1 laptop from HP.",
-          "specification": "Processor: Intel Core i7, RAM: 16GB, Storage: 512GB SSD, Display: 13.3-inch FHD Touchscreen",
-          "image": "https://rukminim1.flixcart.com/image/312/312/xif0q/computer/h/s/n/spectre-x360-13-notebook-hp-original-imagg4fa4ng9axqx.jpeg?q=70",
-          "id": 26
-          },
-          {
-          "name": "Lenovo ThinkPad X1 Carbon",
-          "price": "₹59,900",
-          "category": "Laptop",
-          "color": "Black",
-          "description": "Durable and business-oriented laptop from Lenovo.",
-          "specification": "Processor: Intel Core i7, RAM: 16GB, Storage: 512GB SSD, Display: 14-inch FHD",
-          "image": "https://rukminim1.flixcart.com/image/312/312/xif0q/computer/n/i/u/-original-imagpa5fbvqzk2xn.jpeg?q=70",
-          "id": 27
-          },
-          {
-          "name": "ASUS ROG Zephyrus G14",
-          "price": "₹1,29,900",
-          "category": "Laptop",
-          "color": "Moonlight White",
-          "description": "Gaming laptop with powerful performance from ASUS.",
-          "specification": "Processor: AMD Ryzen 9, RAM: 16GB, Storage: 1TB SSD, Display: 14-inch QHD",
-          "image": "https://rukminim1.flixcart.com/image/312/312/xif0q/computer/5/i/3/ga402rjz-l4135ws-thin-and-light-laptop-asus-original-imagmm76favtvwjx.jpeg?q=70",
-          "id": 28
-          }
-  ],
-  "users": [
-    {
-      "name": "Ronak",
-      "email": "user123@gmail.com",
-      "password": "2311",
-      "id": 1
-    },
-    {
-      "name": "hiren",
-      "email": "hiren123@gmail.com",
-      "password": "123",
-      "id": 2
-    },
-    {
-      "name": "Tushar",
-      "email": "tushar123@gmail.com",
-      "password": "1234",
-      "id": 3
-    },
-    {
-      "name": "",
-      "email": "",
-      "password": "",
-      "id": 4
-    },
-    {
-      "name": "Ronak",
-      "email": "Ronak123@gmail.com",
-      "password": "1234",
+      "quantity": 1,
+      "productId": 14,
+      "userId": 1,
       "id": 5
     }
-  ]
+  ],
+  "orders": []
 }
