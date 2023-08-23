@@ -1,6 +1,7 @@
 body {
     font-family: sans-serif;
     color: black;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTPXU9hN0bvqTN80ghRBZjrXd-rVOUq0GPVLlO9HNi37KHcQpJ6hqrlUvnVQOXmye-JYs&usqp=CAU');
 }
 
 .container {
@@ -51,7 +52,7 @@ body {
 
 .invalid-input {
     color: red;
-    font-size: 12px;
+    font-size: 18px;
     margin-top: -20px;
     text-align: left;
 }

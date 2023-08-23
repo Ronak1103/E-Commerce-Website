@@ -10,8 +10,9 @@
     </div>
   </ng-template>
 </ngb-carousel>
-<div class="product-list-wrapper">
-<h1>Trendy Products</h1>
+
+<div class="product-list-wrapper"> <br> <br>
+<h3 class="heading">Trendy Products</h3><br>
 <div class="row">
 <div class="col-sm-3" *ngFor="let item of trendyProducts">
   <div class="product-item">
@@ -27,7 +28,7 @@
   </div>
   <div class="product-footer">
     <a routerLink="/details/{{item.id}}">View Details</a>
-    <a href="">Add to Cart</a>
+    <a href="#">Add to Cart</a>
   </div>
   </div>
 </div>

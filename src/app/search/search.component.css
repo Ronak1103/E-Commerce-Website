@@ -1,7 +1,7 @@
 .search-item{
     width: 800px;
     margin: 25px auto;
-    border-top: 1px solid #ddd;
+    border-top: 1px solid black;
     padding-top: 15px;
 }
 
@@ -22,4 +22,7 @@
 
 .search-item span{
     margin-right: 10px;
+}
+.search-item a{
+    text-decoration: none;
 }

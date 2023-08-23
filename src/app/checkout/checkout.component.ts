@@ -20,11 +20,11 @@ export class CheckoutComponent implements OnInit{
           price = price + (+item.price * +item.quantity);  
         }
       });
-      this.totalPrice = price + (price / 10) + 100 - (price / 10);
+      this.totalPrice = Math.floor(price + (price / 10) + 100 - (price / 10));
     })
   }
 
-  orderNow(data: { email: string, address: string, contact: string }){
+  orderNow(data: { email: string, address: string, contact: string , city: string , pincode:string,image:string}){
     let user = localStorage.getItem('user');
     let userId = user && JSON.parse(user).id;
     if (this.totalPrice) {

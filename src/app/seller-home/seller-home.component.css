@@ -3,6 +3,10 @@ table{
     color: black;
     border-collapse: collapse;
 }
+h3{
+    text-align: center;
+    color: blueviolet;
+}
 img{
     height: 130px;
     width: 130px;

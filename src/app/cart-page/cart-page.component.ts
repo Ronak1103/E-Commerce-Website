@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
-import { ProductService } from '../services/product.service';
-import { cart,priceSummary} from  '../data-type'
 import { Router } from '@angular/router';
+import { cart, priceSummary } from '../data-type';
+import { ProductService } from '../services/product.service';
 
 @Component({
   selector: 'app-cart-page',
@@ -17,28 +17,43 @@ export class CartPageComponent implements OnInit {
     delivery: 0,
     total: 0
   }
-  constructor(private product: ProductService , private router:Router) { }
+  constructor(private product: ProductService, private router: Router) { }
 
   ngOnInit(): void {
-    this.product.currentCart().subscribe((result) => {
-      this.cartData = result;
-      console.warn(this.cartData);
-      let price=0;
-      result.forEach((item) => {
-        if (item.quantity) {
-          price = price + (+item.price * +item.quantity);
-          
-        }
-      });
-      this.priceSummary.price=price;
-      this.priceSummary.discount = price / 10;
-      this.priceSummary.tax = price / 10;
-      this.priceSummary.delivery = 100;
-      this.priceSummary.total = price + (price / 10) + 100 - (price / 10);
+   this.loadDetails()
+
+  }
+
+  removeToCart(cartId:number|undefined){
+    cartId && this.cartData && this.product.removeToCart(cartId)
+    .subscribe((result)=>{
+      this.loadDetails();
     })
   }
 
-  checkout(){
+  loadDetails(){
+    this.product.currentCart().subscribe((result) => {
+      this.cartData = result;
+      console.warn(this.cartData);
+      let price = 0;
+      result.forEach((item) => {
+        if (item.quantity) {
+          price = price + (+item.price * +item.quantity)
+        }
+      })
+      this.priceSummary.price = Math.floor(price);
+      this.priceSummary.discount = Math.floor(price / 10);
+      this.priceSummary.tax = Math.floor(price / 10);
+      this.priceSummary.delivery = 100;
+      this.priceSummary.total = Math.floor(price + (price / 10) + 100 - (price / 10));
+
+    if(!this.cartData.length){
+      this.router.navigate(['/'])
+    }
+
+    })
+  }
+  checkout() {
     this.router.navigate(['/checkout'])
   }
 }

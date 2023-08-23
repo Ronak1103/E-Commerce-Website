@@ -29,7 +29,24 @@
             placeholder="Enter Contact Details"
             ngModel
             pattern="[0-9]{10}"
-            required=
+            required
+            />
+            <input 
+            type="text" 
+            class="form-input"
+            name="city"
+            placeholder="Enter City name"
+            ngModel
+            required
+            />
+            <input 
+            type="text" 
+            class="form-input"
+            name="pincode"
+            placeholder="Enter Pincode"
+            ngModel
+            pattern="[0-9]{6}"
+            required
             />
             
             <button [disabled]="orderData.invalid" class="form-button">Order Now</button>

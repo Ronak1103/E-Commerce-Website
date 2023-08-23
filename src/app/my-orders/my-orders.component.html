@@ -1,0 +1,45 @@
+<div class="my-orders">
+    <h1>My Orders</h1>
+    <div class="row">
+        <div class="col-sm-2">
+            <span>Orders</span>
+        </div>
+        <div class="col-sm-2">
+            <span>Order Id</span>
+        </div>
+        <div class="col-sm-2">
+            <span>Image</span>
+        </div>
+        <div class="col-sm-2">
+            <span>Price</span>
+        </div>
+        
+        <div class="col-sm-2">
+            <span>Status</span>
+        </div>
+        <div class="col-sm-2">
+           <span>Cancel Order</span>
+        </div>
+    </div>
+    <div class="row" *ngFor="let order of orderData">
+        <div class="col-sm-2">
+            <img class="order-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJcAAAB+CAMAAAAeCnMBAAAAZlBMVEX///8AAACkpKTj4+O7u7teXl7x8fHq6upDQ0M1NTWQkJDIyMhWVlZKSkqCgoL4+PgtLS3V1dWIiIjCwsLOzs6Xl5erq6u1tbV6enpPT08UFBQgICBpaWk9PT3d3d0lJSVxcXELCwt34y7QAAAEY0lEQVR4nO2a7ZaiMAyGUZRPnaKCCowK93+TO5jYlpbBXZoKZ0+ff2Q65W1Ik1TwPIfD4XA4HA6Hw7F8gmKnUBbh3KJ+uK109vMLWw/IWq2KuWV5zaCuZm5ZYbRMfx0GZcWzx9f5qaPdy0Rfs8vytk9d0dwyNOplhJMKhlc+tw4VyF71/PGkANnre24ZKuzx1JWYzxRc1oQUVOF1GKqyxpi7K7YhKzaWFdqQRZC9mBVdJ2NdXmZBVuab6/qCqeKtBGitZFOsmwZGfVdP285clncCXb1EeH2aHrr8WB9VMtkGk30R6LrDEns7u9BNqEsSwaBxuPYmg388EOgKSphLDokLmIJRXQEkvl5mP+v/OBlsx8+SKdeXrevyYdDa00bteo92KrjGRjJhUtuM6rrrg4ZcOBlcdyk7X3eFrmvAqb4u1QCYbHXXTPK20nVhHy83WgNxacA3zCbn6Jv2aEFXxlRLpc+U0ch6nY9l78ANtqO6trouWM6RSFe60pZ5fFr20gPRdYEIObUfIBWmRLoCaDErKVLAhXKZ03SxWPMyhNdDDlQjbto2gju00h00Xf5D27NQmGiyV0cCuhIWIGyDWyHgFtQVcksKD23DxJhW86AZGGB1xEEPxtywB++0YkisDokifV+bgemQCKLs5fHOgIY9mSzeG5JAUxyBC6GuC6GugE5WRdDaC3DSa4IUGHFHboDusU04MGBb8BGwh6mKI4C9ocis2PWLEgCVqebXgfofeLCiy14dGGANN+CvWKLUoS6eyzHnie4Lzwl02asDezxx0sCUJppr0FVxXVonj0sjDa9XAyyeWwirF+d5VddRWQga6IojsFPCJYCiIpKRquuqRnlkIbz4iZG3dFgCGj4gUXSpnaO+D0jAON8p/hDXiq5g31+Ht1HjjYZXZuUBBs8t4/cBXe1Llw9ZQXRfsI5eV00Bw8MH//2xUNav6EL/8qLDSsV/VKAOHugXxX+KLkwsPL/d675OMjA+yte1empVdIHsijfaUB9qih9M+mCAxUH/mu8v9CfrXWbKNrHxUggSabvOUwB0XPEyxwqKf8whjWR4mR6gzW4s6LquzKHOXh0bAl02XgoNv2b9JyLqrNrB9sa66LNXR2Gs6/z+JlM4muqi7b0E7O5PIsQkYknWdKA4NnPLUMGfduiLoyFQHFv64mgI7OS9jexlRLbM8MJXmIsLL2w9FvfFBB4FiE+O5gy87yPmvpnAubZZHDvOJsXRXvYKKgNZ9fv5p5KauMvih0L5+7v/js3s9Zgu62Eze/nbuOMGrzIeUTxOBPUn+xlX2q3ZLOw4gK56E4Sj5LBP4jQIP5FTQ/5lzPhHXHe+fW31z33ES5nbaNCIz3rLT7hLPkeOnZ9P0rhPfHwpJ/2xpCQf6+wcHH+/39i7MflU13xA11L9JcfXWBL/dHwtdT96Yf13bvh0/vJC/FL93dPxwWM7su8l3sHypPk6vT8OsjRpjuni+nqHw+FwOBwOh+M/5g9CIjp/pt5mWwAAAABJRU5ErkJggg==" alt="">
+        </div>
+        <div class="col-sm-2">
+            <span>#{{order.id}}</span>
+        </div>
+        <div class="col-sm-2">
+        <img src="{{productData?.image}}">
+        </div>
+        <div class="col-sm-2">
+            <span>{{order.totalPrice}}</span>
+        </div>
+        <div class="col-sm-2">
+            <span>In Progress</span>
+        </div>
+        <div class="col-sm-2">
+            <button class="form-button" (click)="cancelOrder(order.id)">Cancel Order</button>
+        </div>
+    </div>
+    
+</div>

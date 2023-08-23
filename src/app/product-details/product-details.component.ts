@@ -3,6 +3,7 @@ import { ActivatedRoute } from '@angular/router';
 import { ProductService } from '../services/product.service';
 import { product } from '../data-type';
 import { cart } from '../data-type';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-product-details',
@@ -14,7 +15,7 @@ export class ProductDetailsComponent implements OnInit{
   productQuantity:number=1;
   removeCart=false;
   cartData:product|undefined;
-  constructor(private activateRoute:ActivatedRoute, private product:ProductService) { }
+  constructor(private activateRoute:ActivatedRoute, private product:ProductService,private router:Router) { }
   
   ngOnInit(): void {
     let productId=this.activateRoute.snapshot.paramMap.get('productId');
@@ -89,5 +90,18 @@ export class ProductDetailsComponent implements OnInit{
       })
     }
     this.removeCart=false
+  }
+  buynow() {
+    if (this.productData) {
+      let totalPrice = this.productData.price * this.productQuantity;
+      this.router.navigate(['/checkout'], {
+        queryParams: {
+          productId: this.productData.id,
+          price: this.productData.price,
+          quantity: this.productQuantity,
+          totalPrice: totalPrice
+        }
+      });
+    }
   }
 }

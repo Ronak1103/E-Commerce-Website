@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
 import { product } from '../data-type';
-import { faBars} from '@fortawesome/free-solid-svg-icons';
+import { faCircleChevronDown} from '@fortawesome/free-solid-svg-icons';
 import { ProductService } from '../services/product.service';
 @Component({
   selector: 'app-header',
@@ -14,7 +14,7 @@ export class HeaderComponent implements OnInit {
   userName:string="";
   searchResult:undefined|product[];
   cartItems=0;
-  icon = faBars;
+  icon = faCircleChevronDown;
   showCategories: boolean = false;
   categories: string[] = ['Mobile', 'Laptop', 'Shoes' , 'Watch' , 'Smart Tv'];
 

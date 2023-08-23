@@ -45,6 +45,9 @@ export interface order {
   email:string,
   address:string,
   contact:string,
+  city:string,
+  image:string,
+  pincode:string,
   totalPrice:number,
   userId:string,
   id:number|undefined

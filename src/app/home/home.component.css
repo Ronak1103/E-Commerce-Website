@@ -1,7 +1,8 @@
 .product-header-image{
     object-fit: contain;
     width: 100%;
-    height: 600px;
+    height: 500px;
+    margin-top: 50px;
 }
 .product-item{
     margin-bottom: 40px;
@@ -12,16 +13,18 @@
     width: 100%;
     height: 300px;
     object-fit: contain;
+    background-color: white;
 }
 
 .product-item .product-details {
     border-top: 1px solid #ccc;
     border-bottom: 1px solid #ccc;
     padding: 15px;
+    background-color: white;
 }
 
 .product-item .name-head{
-    font-size: 20px;
+    font-size: 15px;
     font-weight: 600;
 }
 .product-item h6{
@@ -31,4 +34,8 @@
     display: flex;
     justify-content: space-between;
     padding: 10px;
+    background-color: white;
+}
+.heading{
+    text-align: center;
 }

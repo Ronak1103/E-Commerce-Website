@@ -26,18 +26,18 @@
       "category": "Mobile",
       "color": "Red",
       "description": "This is an Apple Product.",
-      "specification": "Brand: Apple\nColor: Red\nStorage: 128 GB ROM, 6 GB RAM\nDisplay: Super Retina XDR display 6.1‑inch (diagonal) all‑screen OLED display\nCamera: 12MP Main | 12MP Ultra Wide\nOperating System: iOS 16\nProcessor: A15 Bionic Chip, 6 Core Processor\nBattery: Built-in rechargeable lithium-ion battery\nConnectivity: 5G, Wi-Fi 6, Bluetooth 5.2\nFace ID: Enabled\nWater and Dust Resistance: Rated IP68\nDimensions: 146.7mm x 71.5mm x 7.6mm\nWeight: 171 grams\nAdditional Details: The iPhone 14 comes in a stunning Red color, adding a vibrant and bold look to your device. It offers ample storage with 128 GB ROM and 6 GB RAM, allowing you to store your apps, photos, videos, and more. The Super Retina XDR display provides a 6.1‑inch all‑screen OLED display, offering vibrant colors and sharp visuals. The iPhone 14 features a powerful camera setup with a 12MP Main camera and a 12MP Ultra Wide camera, enabling you to capture stunning photos and videos. It runs on the latest iOS 16 operating system, providing a seamless and intuitive user experience. Powered by the A15 Bionic Chip with a 6 Core Processor, the iPhone 14 delivers fast and efficient performance. The built-in rechargeable lithium-ion battery ensures long-lasting usage, and the device supports 5G connectivity for fast internet speeds. It also features Face ID for secure authentication and is rated IP68 for water and dust resistance. With its sleek dimensions and lightweight design, the iPhone 14 is easy to carry and use on the go.",
+      "specification": "Brand: Apple\nColor: Red\nStorage: 128 GB ROM, 6 GB RAM\nDisplay: Super Retina XDR display 6.1‑inch (diagonal) all‑screen OLED display\nCamera: 12MP Main | 12MP Ultra Wide\nOperating System: iOS 16\nProcessor: A15 Bionic Chip, 6 Core Processor\nBattery: Built-in rechargeable lithium-ion battery\nConnectivity: 5G, Wi-Fi 6, Bluetooth 5.2\nFace ID: Enabled\nWater and Dust Resistance: Rated IP68\nDimensions: 146.7mm x 71.5mm x 7.6mm\nWeight: 171 grams.",
       "image": "https://cdn.shopify.com/s/files/1/0568/5942/7015/products/MPVA3HN_A_1.jpg?v=1662718728",
       "id": 1
     },
     {
-      "name": "Adidas",
-      "price": 5000,
+      "name": "Puma",
+      "price": 3800,
       "category": "Shoes",
-      "color": "Blue",
-      "description": "This is an Adidas Product.",
-      "specification": "Brand: Adidas\nColor: Blue\nMaterial: Synthetic\nClosure: Lace-Up\nSole: Rubber\nOccasion: Casual\nIdeal For: Men\nSpecial Features: Breathable mesh upper, cushioned insole, and durable outsole",
-      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ-cZi_h5TVokQZV4UC0vrsl2yGaNIz7BK-1mFAKDw3W6b4A2XUOTSvTLShApLghtStl7VyXMZCW8cjT_uFEDMIRzY0W4Mwd6GM74RYOCBGlBHh1ZFLyvCAHg&usqp=CAE",
+      "color": "Red",
+      "description": "This is a Puma Product.",
+      "specification": "Brand: Puma\nColor: Red\nClosure: Lace-up\nOuter Material: Synthetic\nSole Material: Rubber\nToe Style: Round Toe\nSize Options: Available in various sizes\nWeight: Varies depending on size\nFit: Regular Fit\nCushioning Technology: EVA\nUpper Material: Mesh and synthetic\nInsole Material: Foam\nOutsole Material: Rubber\nIdeal For: Running, Training, and Casual Wear\nWarranty: No warranty",
+      "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/shoe/f/k/6/-original-imagzug3esnwxwhc.jpeg?q=70",
       "id": 2
     },
     {
@@ -51,23 +51,23 @@
       "id": 3
     },
     {
-      "name": "Panasonic",
-      "price": "33000",
+      "name": "Sony",
+      "price": 20000,
       "category": "Smart TV",
       "color": "Black",
-      "description": "This is a Panasonic Product.",
-      "specification": "Brand: Panasonic\nColor: Black\nScreen Size: 55 inches\nDisplay Type: LED\nResolution: 4K Ultra HD\nSmart Features: Built-in Wi-Fi, Smart OS\nConnectivity: HDMI, USB, Bluetooth\nSound Output: 20 Watts\nAdditional Features: Dolby Vision, HDR10+, Voice Assistant compatibility",
-      "image": "https://rukminim1.flixcart.com/image/312/312/l0o6nbk0/television/t/x/c/th-55lx700dx-panasonic-original-imagcejh5enwhxvf.jpeg?q=70",
+      "description": "Sony Smart TV with high-quality display.",
+      "specification": "Brand: Sony\nColor: Black\nDisplay Size: 140 cm (55 inches)\nScreen Type: OLED\nHD Resolution: 3840 x 2160\nRefresh Rate: 120Hz\nHDR Support: HDR10, Dolby Vision\nSound Output: 40 Watts\nSpeaker Type: Bass Reflex Speaker\nNumber of HDMI Ports: 4\nNumber of USB Ports: 2\nSmart Features: Built-in Wi-Fi, Smart OS, Voice Search\nSupported Apps: Netflix, YouTube, Amazon Prime Video, Disney+, and more\nDimensions (W x H x D): 1228 mm x 712 mm x 89 mm\nWeight: 17.2 kg\nWarranty: 1 Year",
+      "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/television/r/s/l/kd-43x64l-sony-original-imagp25zkf38fpb4.jpeg?q=70",
       "id": 4
     },
     {
-      "name": "OnePlus",
-      "price": "18999",
+      "name": "Motorola Edge+",
+      "price": "74999",
       "category": "Mobile",
       "color": "Blue",
-      "description": "This is an OnePlus Product.",
-      "specification": "Brand: OnePlus\nColor: Blue\nStorage: 128 GB ROM\nRAM: 6 GB\nDisplay: 6.5-inch Fluid AMOLED display with 2400 x 1080 pixels resolution\nOperating System: OxygenOS based on Android\nProcessor: Qualcomm Snapdragon 765G with Adreno 620 GPU\nBattery: 4500mAh non-removable battery with Warp Charge 30T Fast Charging\nCamera: Triple rear camera setup - 64MP main camera, 13MP ultra-wide camera, and 2MP depth sensor\nFront Camera: 16MP\nConnectivity: 5G, Wi-Fi 6, Bluetooth 5.1, NFC\nSpecial Features: In-display fingerprint sensor, Face Unlock, Dual Stereo Speakers, USB Type-C port\nDimensions: 160.7 x 74.1 x 8.4 mm\nWeight: 180 grams",
-      "image": "https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/k/w/k/-original-imagg2abzhxjckxu.jpeg?q=70",
+      "description": "Motorola Product",
+      "specification": "Brand: Motorola\nColor: Blue\nStorage: 256 GB ROM\nRAM: 12 GB\nDisplay: 6.7-inch OLED display with 2340 x 1080 pixels resolution\nBattery: 5000mAh non-removable battery\nProcessor: Qualcomm Snapdragon 865\nCamera: Triple rear camera setup - 108MP main camera, 16MP ultra-wide camera, and 8MP telephoto lens\nFront Camera: 25MP\nConnectivity: 5G, Wi-Fi 6, Bluetooth 5.1, USB Type-C\nSpecial Features: In-display fingerprint sensor, Face Unlock, Stereo speakers, 3.5mm headphone jack\nDimensions: 161.1 x 71.4 x 9.6 mm\nWeight: 203 grams",
+      "image": "https://rukminim1.flixcart.com/image/416/416/l2xmqvk0/mobile/3/k/f/-original-image674nvdc4aws.jpeg?q=70",
       "id": 5
     },
     {
@@ -121,13 +121,13 @@
       "id": 10
     },
     {
-      "name": "Motorola Edge+",
-      "price": "74999",
+      "name": "OnePlus",
+      "price": "18999",
       "category": "Mobile",
-      "color": "Aurora Green",
-      "description": "Motorola Product",
-      "specification": "Brand: Motorola\nColor: Aurora Green\nStorage: 256 GB ROM\nRAM: 12 GB\nDisplay: 6.7-inch OLED display with 2340 x 1080 pixels resolution\nBattery: 5000mAh non-removable battery\nProcessor: Qualcomm Snapdragon 865\nCamera: Triple rear camera setup - 108MP main camera, 16MP ultra-wide camera, and 8MP telephoto lens\nFront Camera: 25MP\nConnectivity: 5G, Wi-Fi 6, Bluetooth 5.1, USB Type-C\nSpecial Features: In-display fingerprint sensor, Face Unlock, Stereo speakers, 3.5mm headphone jack\nDimensions: 161.1 x 71.4 x 9.6 mm\nWeight: 203 grams",
-      "image": "https://rukminim1.flixcart.com/image/416/416/l2xmqvk0/mobile/3/k/f/-original-image674nvdc4aws.jpeg?q=70",
+      "color": "Blue",
+      "description": "This is an OnePlus Product.",
+      "specification": "Brand: OnePlus\nColor: Blue\nStorage: 128 GB ROM\nRAM: 6 GB\nDisplay: 6.5-inch Fluid AMOLED display with 2400 x 1080 pixels resolution\nOperating System: OxygenOS based on Android\nProcessor: Qualcomm Snapdragon 765G with Adreno 620 GPU\nBattery: 4500mAh non-removable battery with Warp Charge 30T Fast Charging\nCamera: Triple rear camera setup - 64MP main camera, 13MP ultra-wide camera, and 2MP depth sensor\nFront Camera: 16MP\nConnectivity: 5G, Wi-Fi 6, Bluetooth 5.1, NFC\nSpecial Features: In-display fingerprint sensor, Face Unlock, Dual Stereo Speakers, USB Type-C port\nDimensions: 160.7 x 74.1 x 8.4 mm\nWeight: 180 grams",
+      "image": "https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/k/w/k/-original-imagg2abzhxjckxu.jpeg?q=70",
       "id": 11
     },
     {
@@ -161,13 +161,13 @@
       "id": 14
     },
     {
-      "name": "Sony",
-      "price": 20000,
+      "name": "Panasonic",
+      "price": "33000",
       "category": "Smart TV",
       "color": "Black",
-      "description": "Sony Smart TV with high-quality display.",
-      "specification": "Brand: Sony\nColor: Black\nDisplay Size: 140 cm (55 inches)\nScreen Type: OLED\nHD Resolution: 3840 x 2160\nRefresh Rate: 120Hz\nHDR Support: HDR10, Dolby Vision\nSound Output: 40 Watts\nSpeaker Type: Bass Reflex Speaker\nNumber of HDMI Ports: 4\nNumber of USB Ports: 2\nSmart Features: Built-in Wi-Fi, Smart OS, Voice Search\nSupported Apps: Netflix, YouTube, Amazon Prime Video, Disney+, and more\nDimensions (W x H x D): 1228 mm x 712 mm x 89 mm\nWeight: 17.2 kg\nWarranty: 1 Year",
-      "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/television/r/s/l/kd-43x64l-sony-original-imagp25zkf38fpb4.jpeg?q=70",
+      "description": "This is a Panasonic Product.",
+      "specification": "Brand: Panasonic\nColor: Black\nScreen Size: 55 inches\nDisplay Type: LED\nResolution: 4K Ultra HD\nSmart Features: Built-in Wi-Fi, Smart OS\nConnectivity: HDMI, USB, Bluetooth\nSound Output: 20 Watts\nAdditional Features: Dolby Vision, HDR10+, Voice Assistant compatibility",
+      "image": "https://rukminim1.flixcart.com/image/312/312/l0o6nbk0/television/t/x/c/th-55lx700dx-panasonic-original-imagcejh5enwhxvf.jpeg?q=70",
       "id": 15
     },
     {
@@ -191,6 +191,16 @@
       "id": 17
     },
     {
+      "name": "Adidas",
+      "price": 5000,
+      "category": "Shoes",
+      "color": "Blue",
+      "description": "This is an Adidas Product.",
+      "specification": "Brand: Adidas\nColor: Blue\nMaterial: Synthetic\nClosure: Lace-Up\nSole: Rubber\nOccasion: Casual\nIdeal For: Men\nSpecial Features: Breathable mesh upper, cushioned insole, and durable outsole",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ-cZi_h5TVokQZV4UC0vrsl2yGaNIz7BK-1mFAKDw3W6b4A2XUOTSvTLShApLghtStl7VyXMZCW8cjT_uFEDMIRzY0W4Mwd6GM74RYOCBGlBHh1ZFLyvCAHg&usqp=CAE",
+      "id": 18
+    },
+    {
       "name": "Puma",
       "price": 3800,
       "category": "Shoes",
@@ -198,7 +208,7 @@
       "description": "This is a Puma Product.",
       "specification": "Brand: Puma\nColor: Red\nClosure: Lace-up\nOuter Material: Synthetic\nSole Material: Rubber\nToe Style: Round Toe\nSize Options: Available in various sizes\nWeight: Varies depending on size\nFit: Regular Fit\nCushioning Technology: EVA\nUpper Material: Mesh and synthetic\nInsole Material: Foam\nOutsole Material: Rubber\nIdeal For: Running, Training, and Casual Wear\nWarranty: No warranty",
       "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/shoe/f/k/6/-original-imagzug3esnwxwhc.jpeg?q=70",
-      "id": 18
+      "id": 2
     },
     {
       "name": "Nike",
@@ -207,7 +217,7 @@
       "color": "Black",
       "description": "This is a Nike product.",
       "specification": "Brand: Nike\nColor: Black\nMaterial: Synthetic\nClosure: Lace-Up\nSole: Rubber\nOccasion: Casual\nIdeal For: Men\nSpecial Features: Lightweight design, cushioned insole, and flexible outsole",
-      "image":"https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/y/p/q/-original-imagpgpegvbyjg9h.jpeg?q=70",
+      "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/y/p/q/-original-imagpgpegvbyjg9h.jpeg?q=70",
       "id": 19
     },
     {
@@ -298,7 +308,7 @@
       "description": "Versatile and stylish 2-in-1 laptop from HP.",
       "specification": "Brand: HP\nColor: Dark Ash Silver\nProcessor: Intel Core i7\nRAM: 16GB\nStorage: 512GB SSD\nDisplay: 13.3-inch FHD Touchscreen\nGraphics: Intel Iris Xe\nOperating System: Windows 10\nBattery: Up to 15 hours\nWeight: 1.27kg\nAdditional Details: The HP Spectre x360 features a 360-degree hinge design that allows it to be used in different modes such as laptop, tablet, tent, and stand. It comes with a vibrant 13.3-inch Full HD touchscreen display, providing crisp and vivid visuals. The laptop is equipped with an Intel Core i7 processor for powerful performance, and it has 16GB of RAM and a 512GB SSD for smooth multitasking and ample storage. The Intel Iris Xe graphics deliver impressive visuals for multimedia and light gaming. It runs on the Windows 10 operating system and offers up to 15 hours of battery life, making it suitable for long hours of productivity or entertainment. The laptop is lightweight and portable, making it easy to carry on the go. It also includes features like a backlit keyboard and Bang & Olufsen speakers for an enhanced audio experience.",
       "image": "https://rukminim1.flixcart.com/image/312/312/xif0q/computer/h/s/n/spectre-x360-13-notebook-hp-original-imagg4fa4ng9axqx.jpeg?q=70",
-      "id":28
+      "id": 28
     },
     {
       "name": "Lenovo ThinkPad X1 Carbon",
@@ -329,71 +339,27 @@
       "id": 1
     }
   ],
-  "cart": [
+  "cart": [],
+  "orders": [
     {
-      "name": "Poco X3 GT",
-      "price": 23999,
-      "category": "Mobile",
-      "color": "White",
-      "description": "Poco Product",
-      "specification": "Battery capacity (mAh)\t6000\\nScreen size (inches)\t6.67\\nRAM\t6GB\\nInternal storage 64GB",
-      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSOuhSjRR6wcHtAfMkhz_MwZwvIs4ar-2vNy6yQNZa_TZXynXnk",
-      "quantity": 1,
-      "productId": 8,
-      "userId": 1,
-      "id": 1
-    },
-    {
-      "name": "Adidas",
-      "price": 5000,
-      "category": "Shoes",
-      "color": "Blue",
-      "description": "This is an Adidas Product.",
-      "specification": "Brand: Adidas , Color: Blue",
-      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ-cZi_h5TVokQZV4UC0vrsl2yGaNIz7BK-1mFAKDw3W6b4A2XUOTSvTLShApLghtStl7VyXMZCW8cjT_uFEDMIRzY0W4Mwd6GM74RYOCBGlBHh1ZFLyvCAHg&usqp=CAE",
-      "quantity": 1,
-      "productId": 2,
-      "userId": 2,
-      "id": 2
-    },
-    {
-      "name": "iPhone 14",
-      "price": 80000,
-      "category": "Mobile",
-      "color": "Red",
-      "description": "This is an Apple Product.",
-      "specification": "Storage : 128 GB ROM , 6 GB RAM\nDisplay : Super Retina XDR display 6.1‑inch (diagonal) all‑screen OLED display\n\tCamera :12MP Main | 12MP Ultra Wide",
-      "image": "https://cdn.shopify.com/s/files/1/0568/5942/7015/products/MPVA3HN_A_1.jpg?v=1662718728",
-      "quantity": 1,
-      "productId": 1,
-      "userId": 1,
-      "id": 3
-    },
-    {
-      "name": "Fire-Boltt",
-      "price": 1500,
-      "category": "Smart Watch",
-      "color": "Pink",
-      "description": "This is a Fire-Boltt Product.",
-      "image": "https://m.media-amazon.com/images/I/61ObZFM3dGL._AC_UY327_FMwebp_QL65_.jpg",
-      "quantity": 1,
-      "productId": 3,
-      "userId": 1,
-      "id": 4
-    },
-    {
-      "name": "Sony",
-      "price": 20000,
-      "category": "Smart TV",
-      "color": "Black",
-      "description": "Sony Smart TV with high-quality display.",
-      "specification": "Display Size: 140 cm (55 inches), Screen Type: OLED, HD Resolution: 3840 x 2160",
-      "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/television/r/s/l/kd-43x64l-sony-original-imagp25zkf38fpb4.jpeg?q=70",
-      "quantity": 1,
-      "productId": 14,
+      "email": "Ronak123@gmail.com",
+      "address": "ABC",
+      "contact": "9934567890",
+      "city": "Ahmedabad",
+      "pincode": "382424",
+      "totalPrice": 3900,
       "userId": 1,
       "id": 5
+    },
+    {
+      "email": "Ronak123@gmail.com",
+      "address": "ABC",
+      "contact": "9934567890",
+      "city": "Ahmedabad",
+      "pincode": "382424",
+      "totalPrice": 3900,
+      "userId": 1,
+      "id": 6
     }
-  ],
-  "orders": []
+  ]
 }
