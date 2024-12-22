@@ -17,12 +17,24 @@
       "password": "1234",
       "email": "RP123@gmail.com",
       "id": 3
+    },
+    {
+      "name": "Ronak",
+      "password": "Ronak1234",
+      "email": "Ronak123@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 5
     }
   ],
   "products": [
     {
       "name": "iPhone 14",
-      "price": 80000,
+      "price": "80000",
       "category": "Mobile",
       "color": "Red",
       "description": "This is an Apple Product.",
@@ -71,7 +83,7 @@
       "id": 5
     },
     {
-      "name": "ASUS",
+      "name": "ASUS ROG Strix G17",
       "price": 80000,
       "category": "Laptop",
       "color": "Black",
@@ -360,6 +372,16 @@
       "totalPrice": 3900,
       "userId": 1,
       "id": 6
+    },
+    {
+      "email": "Ronak123@gmail.com",
+      "address": "c-1 ,abc society",
+      "contact": "9999999999",
+      "city": "amd",
+      "pincode": "121212",
+      "totalPrice": 3900,
+      "userId": 1,
+      "id": 7
     }
   ]
 }
